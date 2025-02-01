@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Antoine Guillaume (@baraline), currently R&D Manager at [Novahe](https://www.constellation.fr/) & [Constellation](https://www.constellation.fr/)
-- 👀 I’m interested in time series machine learning and data mining
-- 💞️ I’m looking to collaborate on research activities on time series
+- 👋 Hi, I’m Antoine Guillaume (@baraline), currently Research Fellow at [Novahe](https://www.novahe.fr/) & [Constellation](https://www.constellation.fr/)
+- 👀 I’m interested in time series machine learning, data mining and similarity search applications, such as motif discovery or RAG.
 - 📫 How to reach me : My generic (non institutional email) is antoine.guillaume45@gmail.com, for profesionnal inqueries, you can reach me at antoine.guillaume@novahe.fr
 
 <!---
